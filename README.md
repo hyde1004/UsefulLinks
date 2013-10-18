@@ -15,6 +15,7 @@
 ### Virtual Server ###
 - [Koding](https://koding.com)
 - [Nitrous](https://nitrous.io)
+- [codeenvy](https://codenvy.com)
 
 ### Others ###
 - [Ruby Version Manager (RVM) Overview for Rails Newbs](http://strandcode.com/2013/07/11/ruby-version-manager-rvm-overview-for-rails-newbs/)
