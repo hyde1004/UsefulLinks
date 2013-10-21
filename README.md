@@ -19,4 +19,5 @@
 
 ### Others ###
 - [Ruby Version Manager (RVM) Overview for Rails Newbs](http://strandcode.com/2013/07/11/ruby-version-manager-rvm-overview-for-rails-newbs/)
+- [stackoverflow](http://stackoverflow.com)
 
