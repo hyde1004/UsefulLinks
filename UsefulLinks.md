@@ -21,4 +21,6 @@
 - [Ruby Version Manager (RVM) Overview for Rails Newbs](http://strandcode.com/2013/07/11/ruby-version-manager-rvm-overview-for-rails-newbs/)
 - [stackoverflow](http://stackoverflow.com)
 - [울지않는 벌새](http://hummingbird.tistory.com/)
+- [techNeedle](http://techneedle.com/)
+- [Sine Tone Generator](http://www.audiocheck.net/audiofrequencysignalgenerator_sinetone.php)
 
