@@ -1,7 +1,7 @@
 ## Useful Links ##
 
 ### Ruby ###
-- [Ruby on Rails Tutorial](http://http://ruby.railstutorial.org/)
+- [Ruby on Rails Tutorial](http://ruby.railstutorial.org/)
 
 ### Wiki ###
 - [리그베다 위키](http://rigvedawiki.net/r1/wiki.php)
@@ -28,3 +28,6 @@
 ### Ruby ###
 - [Ruby Warrior Site](https://www.bloc.io/ruby-warrior#/)
 - [Ruby Warrior Tutorial](http://tutorials.jumpstartlab.com/projects/ruby_warrior.html#ruby-warrior-strategy-guide)
+
+### IPTV ###
+- [Open IPTV Forum](http://wwww.oipf.tv)
