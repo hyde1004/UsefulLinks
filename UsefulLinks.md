@@ -25,6 +25,7 @@
 - [Sine Tone Generator](http://www.audiocheck.net/audiofrequencysignalgenerator_sinetone.php)
 - [정보통신산업진흥원 부설 소프트웨어공학센터](https://www.software.kr/)
 - [Daum DNA Lens](http://dna.daum.net/lens/)
+- [NHN 개발자 블로그](helloworld.naver.com/)
 
 ### Ruby ###
 - [Ruby Warrior Site](https://www.bloc.io/ruby-warrior#/)
